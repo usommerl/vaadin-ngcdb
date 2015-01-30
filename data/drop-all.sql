@@ -1,0 +1,9 @@
+START views_drop
+START imagerelations_drop
+START ngcobjects_drop
+START discoverers_drop
+START constellations_drop
+START objecttypes_drop
+START images_drop
+START imageproviders_drop
+
