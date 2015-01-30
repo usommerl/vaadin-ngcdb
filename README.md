@@ -1,6 +1,6 @@
 About
 -----
-A small sample application which enables you to explore a database of nebulae and clusters of stars. Its main purpose is to demonstrate the utilzation of the [Vaadin](https://vaadin.com/)-Framework.
+A small sample application which enables you to explore a database of nebulae and clusters of stars. Its main purpose is to demonstrate the utilization of the [Vaadin](https://vaadin.com/)-Framework.
 
 Screenshots
 -----------
